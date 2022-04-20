@@ -11,3 +11,17 @@ numpy
 pandas
 joblib
 pickle-mixin
+anfis
+Bottleneck
+gunicorn
+pickleshare
+PyYAML
+scikit-fuzzy
+scikit-image
+scikit-learn
+scipy
+seaborn
+unicodecsv
+matplotlib
+scikit-learn
+nltools
